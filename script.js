@@ -19,7 +19,7 @@ const originalContent = {
     acc[element.dataset.editKey] = element.innerHTML;
     return acc;
   }, {}),
-  profilePhoto: 'assets/profile-placeholder.svg',
+  profilePhoto: 'profile-placeholder.svg',
   gallery: []
 };
 
